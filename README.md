@@ -7,6 +7,5 @@
 * Pandas
 
 # File Description
-* What Factors Contribute to Manga Success.pdf: Summarization of the project
 * PokeAPI.ipynb: Web scraping file using the Jikan API
 * Merge.ipynb: Data cleaning using pandas
